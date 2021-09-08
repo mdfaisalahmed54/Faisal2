@@ -25,13 +25,14 @@ li a{
     float: left;
     padding-left: 5%;
     margin-left: 2%;
-    border-radius: 50%;
-
+}
+.Faisal{
+    border-radius: 31%;
 }
 img{
     width: 100%;
-    
 }
+
 .welcome-hello h1{
     font-size: 57px;
 }
@@ -129,6 +130,8 @@ img{
     text-decoration: none;
     font-size: 19px;
     background: #c66969;
+    padding: 7px;
+    border-radius: 50px;
 }
 .all-blog{
     background: #f0e5e5;
